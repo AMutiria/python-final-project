@@ -17,7 +17,7 @@ This repository contains the files for my final project in the Python navigation
 
 ## Data Source
 
-The data used in this project is from the `owid-covid-data.csv` file, which likely originates from Our World in Data (https://ourworldindata.org/covid-vaccinations).
+The data used in this project is from the `owid-covid-data.csv` file, which originates from Our World in Data (https://ourworldindata.org/covid-vaccinations).
 
 ## Contact
 
